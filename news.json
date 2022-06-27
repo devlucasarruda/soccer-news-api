@@ -1,30 +1,37 @@
 [
   {
     "id": 1,
-    "title": "Você sabia?",
-    "description": "Mulheres colecionam conquistas históricas no futebol; veja oito delas neste 8 de março.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/1.jpg",
-    "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/08/voce-sabia-mulheres-colecionam-conquistas-historicas-no-futebol-veja-oito-delas-neste-8-de-marco.ghtml"
+    "title": "Decisão",
+    "description": "Náutico e Sport empatam em 1 a 1 no primeiro jogo do mata-mata da Série A3 do Brasileiro feminino",
+    "image": "https://s2.glbimg.com/0Nk5NcEKyvE98uPWZJdP4X2kFgs=/0x0:1920x1080/1080x608/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/D/g/ahz06BRESgfBf1ohIxxA/frame-00-31-07.321.jpg",
+    "link": "https://ge.globo.com/pe/futebol/noticia/2022/06/19/nautico-e-sport-empatam-em-1-a-1-no-primeiro-jogo-do-mata-mata-da-serie-a3-do-brasileiro-feminino.ghtml"
   },
   {
     "id": 2,
-    "title": "Por que vou parar de sonhar?",
-    "description": "Em carta ao filho, Cristiane recorda infância dura e ambições: Por que vou parar de sonhar?",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/2.jpg",
-    "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/02/em-carta-ao-filho-cristiane-recorda-infancia-dura-e-ambicoes-por-que-vou-parar-de-sonhar.ghtml"
+    "title": "Mesmo palco, duas histórias",
+    "description": "Novo clássico Náutico x Sport decide futuro no Brasileiro Feminino: 'A gente também tem que vencer. Porque ninguém quer ajudar o perdedor'",
+    "image": "https://s2.glbimg.com/D91cwoZeGrHVyj-F6Brr-2Cv19k=/0x0:1920x1080/1080x608/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Z/1/q0w4TwQUKlTJNXrBjGCQ/frame-00-01-46.618.jpg",
+    "link": "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/19/mesmo-palco-duas-historias-novo-classico-nautico-x-sport-decide-futuro-no-brasileiro-feminino.ghtml"
   },
   {
     "id": 3,
-    "title": "Dupla de respeito",
-    "description": "Com show da dupla Jhonson e Aline, Brasil estreia com vitória no Sul-Americano Feminino Sub-17.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/3.jpg",
-    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/03/02/com-show-da-dupla-jhonson-e-aline-brasil-estreia-com-vitoria-no-sul-americano-feminino-sub-17.ghtml"
+    "title": "Estreia",
+    "description": "Brasileiro Feminino da Série A3 estreia em edição inédita com clássicos na primeira fase",
+    "image": "https://s2.glbimg.com/5toXzAuyH_To66Zhz2qpfkTuSqM=/0x43:1280x763/1080x608/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/T/l/uLKNPnSwiTQEFjAuCfog/34c6d9e7-abc4-4d9d-bf98-ccc1a8ac72ba.jpg",
+    "link": "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/11/brasileiro-feminino-da-serie-a3-estreia-em-edicao-inedita-com-classicos-na-primeira-fase.ghtml"
   },
   {
     "id": 4,
-    "title": "Estreia marcada",
-    "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
-    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
+    "title": "Segunda edição!",
+    "description": "Organização da Brasil Ladies Cup negocia para ter primeira equipe da Europa no torneio",
+    "image": "https://s2.glbimg.com/gX042hWkFbh5rdUvbzAmQIHqkV0=/0x0:640x360/1080x608/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/Z/D/qk04kOTe2nDUPsTIGV4Q/spcampeao.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/06/08/organizacao-da-brasil-ladies-cup-negocia-para-ter-primeira-equipe-da-europa-no-torneio.ghtml"
+  },
+  {
+    "id": 5,
+    "title": "Brasileiro Feminino",
+    "description": "CBF divulga tabela detalhada das Séries A2 e A3; duelos estão previstos para começar no dia 11 de junho",
+    "image": "https://s2.glbimg.com/GSCY_Yx_HWb-wPv0DiICVpNnth4=/0x0:1395x785/1080x608/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/S/w/FnwPAhTtyYbCmUmmqoWQ/taca.jpg",
+    "link": "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/02/brasileiro-feminino-cbf-divulga-tabela-detalhada-das-series-a2-e-a3.ghtml"
   }
 ]
